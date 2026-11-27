@@ -1,0 +1,122 @@
+{
+  "sourceLanguage": "zh-Hans",
+  "strings": {
+    "CFBundleDisplayName": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "亲友联络提醒"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "親友聯絡提醒"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keep Close"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keep Close"
+          }
+        }
+      }
+    },
+    "NSCameraUsageDescription": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "用于在见面时拍一张合照，存进这位亲友的合照时间线。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "用於在見面時拍一張合照，存進這位親友的合照時間軸。"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Used to take a photo together and add it to that person's photo timeline."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "一緒に写真を撮って、その人の写真タイムラインに追加するために使います。"
+          }
+        }
+      }
+    },
+    "NSContactsUsageDescription": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "用于从通讯录找到你想常联系的亲友，并读取他们的名字、号码、头像和生日。数据只留在你的手机上。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "用於從通訊錄找到你想常聯絡的親友，並讀取他們的名字、號碼、頭像和生日。資料只留在你的手機上。"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Used to find the people you want to keep in touch with and read their name, number, photo and birthday. Nothing leaves your iPhone."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "連絡を取りたい人を探し、名前・番号・写真・誕生日を読み取るために使います。データが iPhone の外に出ることはありません。"
+          }
+        }
+      }
+    },
+    "NSPhotoLibraryAddUsageDescription": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "用于把你生成的合照分享卡保存到相册。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "用於把你產生的合照分享卡儲存到相簿。"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Used to save the share cards you create to your photo library."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "作成したシェアカードを写真ライブラリに保存するために使います。"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
